@@ -1,0 +1,40 @@
+src/main/java/Dining.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/Dining.java:3:	NoPackage:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/main/java/Dining.java:3:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/Dining.java:4:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/Dining.java:4:	NPathComplexity:	NPathComplexity: The method 'main(String[])' has an NPath complexity of 7008, current threshold is 200
+src/main/java/Dining.java:5:	CloseResource:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/main/java/Dining.java:5:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'scanner' could be declared final
+src/main/java/Dining.java:6:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'baseCost' could be declared final
+src/main/java/Dining.java:10:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:13:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'menu' could be declared final
+src/main/java/Dining.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mealPrices' could be declared final
+src/main/java/Dining.java:22:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mealAvailability' could be declared final
+src/main/java/Dining.java:25:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:27:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:30:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mealChoice' could be declared final
+src/main/java/Dining.java:33:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mealIndex' could be declared final
+src/main/java/Dining.java:40:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:44:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'quantity' could be declared final
+src/main/java/Dining.java:47:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:54:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'more' could be declared final
+src/main/java/Dining.java:57:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/Dining.java:62:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/Dining.java:66:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/Dining.java:70:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/Dining.java:74:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/Dining.java:77:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:78:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'selectedQuantities' could be declared final
+src/main/java/Dining.java:78:	LongVariable:	LongVariable: Avoid excessively long variable names like selectedQuantities
+src/main/java/Dining.java:82:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:87:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:89:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:90:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'confirm' could be declared final
+src/main/java/Dining.java:92:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/Dining.java:93:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:95:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/Dining.java:96:	UnusedAssignment:	UnusedAssignment: The value assigned to variable 'totalCost' is never used
